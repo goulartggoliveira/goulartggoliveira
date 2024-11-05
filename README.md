@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/goulartggoliveira/goulartggoliveira/blob/main/developer-dribbble.gif?raw=true" width="500" height="320" />
 
 
-## I'm a developer, creator and a good friend
+## I'm a developer and a creator
 - 🌱 I’m currently learning Nodejs. and Mongodb
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
